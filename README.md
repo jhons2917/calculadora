@@ -1,2 +1,0 @@
-# calculadora
-laboratorio 13
